@@ -27,7 +27,7 @@ const CourseDetail = () => {
               <strong>Description:</strong> {course.description}
             </Card.Text>
             <Card.Text>
-              <strong>Code:</strong> {course.code}
+              <strong>Code:</strong> {course.course_code}
             </Card.Text>
           </Card.Body>
         </Card>
